@@ -19,3 +19,8 @@ In pipeline:
 `ipywidgets`
 
 `matplotlib`
+
+## Pipeline Components
+qpe Component
+
+This component runs the Quantum Phase Estimation algorithm. It takes an integer `n` as an input, which specifies the number of counting qubits to use in the algorithm.
