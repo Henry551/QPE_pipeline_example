@@ -11,7 +11,11 @@ Kubeflow Pipelines SDK (kfp)
 In pipeline:
 
 `Qiskit Aer`
-Qiskit
-pylatexenc
-ipywidgets
-matplotlib
+
+`Qiskit`
+
+`pylatexenc`
+
+`ipywidgets`
+
+`matplotlib`
